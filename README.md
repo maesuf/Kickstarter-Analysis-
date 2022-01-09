@@ -18,6 +18,6 @@
 
 ### Goals that had 45000 or higher failed which lead me to beleive that number could very diffifult to attian and meet. Goals that had 1000 of less were easier to meet
 
-March, April and May were better months to launch but it would be nice to see why. Certain fundraising number were easier to attain than others and it would nice to see why there is a correlation between specific ranges. Goals that had less than 1000, 1000 to 4999, 35000 to 39999 and 40000 to 44999 all scored in the 75th percentile. Were those plays better and what influcended the sucess for those goals? These are some of the limiations to the dataset
+### March, April and May were better months to launch but it would be nice to see why. Certain fundraising number were easier to attain than others and it would nice to see why there is a correlation between specific ranges. Goals that had less than 1000, 1000 to 4999, 35000 to 39999 and 40000 to 44999 all scored in the 75th percentile. Were those plays better and what influcended the sucess for those goals? These are some of the limiations to the dataset
 
-A box whisker chart would be great for theater outcomes based on lauch becuase that can show us the best months and the worst months for lauch. 
+### A box whisker chart would be great for theater outcomes based on lauch becuase that can show us the best months and the worst months for lauch. 
